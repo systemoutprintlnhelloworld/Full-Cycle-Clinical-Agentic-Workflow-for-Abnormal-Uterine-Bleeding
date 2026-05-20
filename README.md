@@ -1,6 +1,6 @@
-# Paper submission code repository
+# Full-Cycle Clinical Agentic Workflow for Abnormal Uterine Bleeding
 
-This repository is a curated, code-first snapshot for the paper submission package of 课题7临床评测.
+This repository is a curated, code-first submission snapshot for a full-cycle clinical agentic workflow study in abnormal uterine bleeding (AUB).
 
 It was created by copying selected source code, prompts, specifications, and small paper-facing assets from the working project. The original working folders were not moved or modified. In particular, files under `work/paper_crosscheck/2026-05-14_v2-subplots_submission_fix/submission_bundle/FigXX/render/` in the source project were treated as protected and were not copied here.
 
@@ -30,4 +30,3 @@ Use it as the first audit trail when checking whether the repository contains th
 Do not add or regenerate `FigXX/render/` files in this repository unless explicitly required later.
 
 The protected render files in the source project were hashed before and after this organization step. See `docs/PROTECTED_RENDER_POLICY.md` and `paper_assets/audit_reports/2026-05-20_submission_code_repo_organize/`.
-
