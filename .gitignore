@@ -1,0 +1,43 @@
+# Python/cache
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Local environments and secrets
+.env
+.env.*
+*.key
+*.pem
+*.token
+
+# VCS/editor/runtime state
+.git/
+.cunzhi-memory/
+.serena/
+.ai_memory/
+.agent/
+.vscode/
+
+# Bulky/generated outputs
+output/
+outputs/
+logs/
+dist/
+build/
+archive/
+backup/
+tmp/
+temp/
+analysis_viz/tmp_kaleido/
+
+# Protected paper render outputs: do not commit regenerated render files here.
+**/Fig*/render/
+**/Fig??/render/
+**/FigXX/render/
+
+# Office lock files
+~$*
+

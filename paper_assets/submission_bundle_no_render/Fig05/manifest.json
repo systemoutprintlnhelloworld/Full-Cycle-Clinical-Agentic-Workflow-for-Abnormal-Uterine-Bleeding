@@ -1,0 +1,152 @@
+{
+  "fig_id": "Fig05",
+  "generated_at": "2026-05-18T07:02:07+08:00",
+  "workbook": "work/paper_crosscheck/2026-05-14_v2-subplots_submission_fix/submission_bundle/Fig05/source_data/Fig05_source_data.xlsx",
+  "subfigure_count": 3,
+  "subfigures": [
+    {
+      "subplot_key": "Fig5a",
+      "sheet_name": "Fig5a",
+      "section_id": "manuscript_fig05",
+      "figure_file": "Fig5a_G4A_sankey_arrow_rect_v1.png",
+      "figure_relpath": "analysis_viz/figures/v2_subplots/G4_system/G4A_sankey_arrow_rect_v1.png",
+      "source_paths": [
+        "analysis_viz/figures/v2_subplots/G4_system/source_data/G4_system_metrics_v2_source.xlsx"
+      ],
+      "source_count": 1,
+      "sources_detail": [
+        {
+          "source_file": "analysis_viz/figures/v2_subplots/G4_system/source_data/G4_system_metrics_v2_source.xlsx",
+          "source_sheet": "明细_桑基_已用",
+          "rows_total": 1492,
+          "rows_written": 1492
+        },
+        {
+          "source_file": "analysis_viz/figures/v2_subplots/G4_system/source_data/G4_system_metrics_v2_source.xlsx",
+          "source_sheet": "汇总_桑基_节点",
+          "rows_total": 25,
+          "rows_written": 25
+        },
+        {
+          "source_file": "analysis_viz/figures/v2_subplots/G4_system/source_data/G4_system_metrics_v2_source.xlsx",
+          "source_sheet": "汇总_桑基_连线",
+          "rows_total": 56,
+          "rows_written": 56
+        }
+      ],
+      "rows_written": 1573,
+      "truncated": false,
+      "plot_data_files": [
+        "work/paper_crosscheck/2026-05-14_v2-subplots_submission_fix/submission_bundle/Fig05/plot_data/Fig5a__G4_system_metrics_v2_source.xlsx"
+      ],
+      "launcher_script": "work/paper_crosscheck/2026-05-14_v2-subplots_submission_fix/submission_bundle/Fig05/scripts/render_Fig5a.py",
+      "render_png": "work/paper_crosscheck/2026-05-14_v2-subplots_submission_fix/submission_bundle/Fig05/render/Fig5a_G4A_sankey_arrow_rect_v1.png",
+      "render_svg": "work/paper_crosscheck/2026-05-14_v2-subplots_submission_fix/submission_bundle/Fig05/render/Fig5a_G4A_sankey_arrow_rect_v1.svg",
+      "render_pdf": "work/paper_crosscheck/2026-05-14_v2-subplots_submission_fix/submission_bundle/Fig05/render/Fig5a_G4A_sankey_arrow_rect_v1.pdf",
+      "svg_mode": "native_vector",
+      "svg_note": "",
+      "pdf_mode": "native_vector",
+      "pdf_note": "",
+      "png_mode": "rewritten_800dpi",
+      "png_note": ""
+    },
+    {
+      "subplot_key": "Fig5b",
+      "sheet_name": "Fig5b",
+      "section_id": "manuscript_fig05",
+      "figure_file": "Fig5b_G4B_calibration_overall_weighted_v6.png",
+      "figure_relpath": "analysis_viz/figures/v2_subplots/G4_system/G4B_calibration_overall_weighted_v6.png",
+      "source_paths": [
+        "analysis_viz/figures/v2_subplots/G4_system/source_data/G4_system_metrics_v2_source.xlsx"
+      ],
+      "source_count": 1,
+      "sources_detail": [
+        {
+          "source_file": "analysis_viz/figures/v2_subplots/G4_system/source_data/G4_system_metrics_v2_source.xlsx",
+          "source_sheet": "明细_校准_病例",
+          "rows_total": 7028,
+          "rows_written": 7028
+        },
+        {
+          "source_file": "analysis_viz/figures/v2_subplots/G4_system/source_data/G4_system_metrics_v2_source.xlsx",
+          "source_sheet": "明细_校准_分箱",
+          "rows_total": 239,
+          "rows_written": 239
+        },
+        {
+          "source_file": "analysis_viz/figures/v2_subplots/G4_system/source_data/G4_system_metrics_v2_source.xlsx",
+          "source_sheet": "汇总_b0_points",
+          "rows_total": 6,
+          "rows_written": 6
+        },
+        {
+          "source_file": "analysis_viz/figures/v2_subplots/G4_system/source_data/G4_system_metrics_v2_source.xlsx",
+          "source_sheet": "汇总_b_阶段_模型_points",
+          "rows_total": 20,
+          "rows_written": 20
+        }
+      ],
+      "rows_written": 7293,
+      "truncated": false,
+      "plot_data_files": [
+        "work/paper_crosscheck/2026-05-14_v2-subplots_submission_fix/submission_bundle/Fig05/plot_data/Fig5a__G4_system_metrics_v2_source.xlsx"
+      ],
+      "launcher_script": "work/paper_crosscheck/2026-05-14_v2-subplots_submission_fix/submission_bundle/Fig05/scripts/render_Fig5b.py",
+      "render_png": "work/paper_crosscheck/2026-05-14_v2-subplots_submission_fix/submission_bundle/Fig05/render/Fig5b_G4B_calibration_overall_weighted_v6.png",
+      "render_svg": "work/paper_crosscheck/2026-05-14_v2-subplots_submission_fix/submission_bundle/Fig05/render/Fig5b_G4B_calibration_overall_weighted_v6.svg",
+      "render_pdf": "work/paper_crosscheck/2026-05-14_v2-subplots_submission_fix/submission_bundle/Fig05/render/Fig5b_G4B_calibration_overall_weighted_v6.pdf",
+      "svg_mode": "native_vector",
+      "svg_note": "",
+      "pdf_mode": "native_vector",
+      "pdf_note": "",
+      "png_mode": "rewritten_800dpi",
+      "png_note": ""
+    },
+    {
+      "subplot_key": "Fig5c",
+      "sheet_name": "Fig5c",
+      "section_id": "manuscript_fig05",
+      "figure_file": "Fig5c_G4C_ablation_diag_dumbbell_v1.png",
+      "figure_relpath": "analysis_viz/figures/v2_subplots/G4_system/G4C_ablation_diag_dumbbell_v1.png",
+      "source_paths": [
+        "analysis_viz/figures/v2_subplots/_supplementary/ablation/source_data/ablation_source_all_in_one_v3_diag_only.xlsx"
+      ],
+      "source_count": 1,
+      "sources_detail": [
+        {
+          "source_file": "analysis_viz/figures/v2_subplots/_supplementary/ablation/source_data/ablation_source_all_in_one_v3_diag_only.xlsx",
+          "source_sheet": "图1_明细_总体哑铃",
+          "rows_total": 3735,
+          "rows_written": 3735
+        },
+        {
+          "source_file": "analysis_viz/figures/v2_subplots/_supplementary/ablation/source_data/ablation_source_all_in_one_v3_diag_only.xlsx",
+          "source_sheet": "图1_计算_总体哑铃",
+          "rows_total": 3,
+          "rows_written": 3
+        },
+        {
+          "source_file": "analysis_viz/figures/v2_subplots/_supplementary/ablation/source_data/ablation_source_all_in_one_v3_diag_only.xlsx",
+          "source_sheet": "图1_汇总_总体哑铃",
+          "rows_total": 3,
+          "rows_written": 3
+        }
+      ],
+      "rows_written": 3741,
+      "truncated": false,
+      "plot_data_files": [
+        "work/paper_crosscheck/2026-05-14_v2-subplots_submission_fix/submission_bundle/Fig05/plot_data/Fig5c__ablation_source_all_in_one_v3_diag_only.xlsx"
+      ],
+      "launcher_script": "work/paper_crosscheck/2026-05-14_v2-subplots_submission_fix/submission_bundle/Fig05/scripts/render_Fig5c.py",
+      "render_png": "work/paper_crosscheck/2026-05-14_v2-subplots_submission_fix/submission_bundle/Fig05/render/Fig5c_G4C_ablation_diag_dumbbell_v1.png",
+      "render_svg": "work/paper_crosscheck/2026-05-14_v2-subplots_submission_fix/submission_bundle/Fig05/render/Fig5c_G4C_ablation_diag_dumbbell_v1.svg",
+      "render_pdf": "work/paper_crosscheck/2026-05-14_v2-subplots_submission_fix/submission_bundle/Fig05/render/Fig5c_G4C_ablation_diag_dumbbell_v1.pdf",
+      "svg_mode": "native_vector",
+      "svg_note": "",
+      "pdf_mode": "native_vector",
+      "pdf_note": "",
+      "png_mode": "rewritten_800dpi",
+      "png_note": ""
+    }
+  ]
+}

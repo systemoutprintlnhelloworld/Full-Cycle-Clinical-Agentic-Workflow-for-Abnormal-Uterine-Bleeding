@@ -1,0 +1,192 @@
+{
+  "fig_id": "Fig03",
+  "generated_at": "2026-05-18T07:01:39+08:00",
+  "workbook": "work/paper_crosscheck/2026-05-14_v2-subplots_submission_fix/submission_bundle/Fig03/source_data/Fig03_source_data.xlsx",
+  "subfigure_count": 4,
+  "subfigures": [
+    {
+      "subplot_key": "Fig3a",
+      "sheet_name": "Fig3a",
+      "section_id": "manuscript_fig03",
+      "figure_file": "Fig3a_G2A_diagnostic_quality_v2.png",
+      "figure_relpath": "analysis_viz/figures/v2_subplots/G2_outcome/G2A_diagnostic_quality_v2.png",
+      "source_paths": [
+        "analysis_viz/figures/v2_subplots/G2_outcome/source_data/G2_outcome_metrics_v6_source.xlsx"
+      ],
+      "source_count": 1,
+      "sources_detail": [
+        {
+          "source_file": "analysis_viz/figures/v2_subplots/G2_outcome/source_data/G2_outcome_metrics_v6_source.xlsx",
+          "source_sheet": "明细_G2_诊断",
+          "rows_total": 4393,
+          "rows_written": 4393
+        },
+        {
+          "source_file": "analysis_viz/figures/v2_subplots/G2_outcome/source_data/G2_outcome_metrics_v6_source.xlsx",
+          "source_sheet": "汇总_G2_诊断_模型",
+          "rows_total": 15,
+          "rows_written": 15
+        }
+      ],
+      "rows_written": 4408,
+      "truncated": false,
+      "plot_data_files": [
+        "work/paper_crosscheck/2026-05-14_v2-subplots_submission_fix/submission_bundle/Fig03/plot_data/Fig3a__G2_outcome_metrics_v6_source.xlsx"
+      ],
+      "launcher_script": "work/paper_crosscheck/2026-05-14_v2-subplots_submission_fix/submission_bundle/Fig03/scripts/render_Fig3a.py",
+      "render_png": "work/paper_crosscheck/2026-05-14_v2-subplots_submission_fix/submission_bundle/Fig03/render/Fig3a_G2A_diagnostic_quality_v2.png",
+      "render_svg": "work/paper_crosscheck/2026-05-14_v2-subplots_submission_fix/submission_bundle/Fig03/render/Fig3a_G2A_diagnostic_quality_v2.svg",
+      "render_pdf": "work/paper_crosscheck/2026-05-14_v2-subplots_submission_fix/submission_bundle/Fig03/render/Fig3a_G2A_diagnostic_quality_v2.pdf",
+      "svg_mode": "native_vector",
+      "svg_note": "",
+      "pdf_mode": "native_vector",
+      "pdf_note": "",
+      "png_mode": "rewritten_800dpi",
+      "png_note": ""
+    },
+    {
+      "subplot_key": "Fig3b",
+      "sheet_name": "Fig3b",
+      "section_id": "manuscript_fig03",
+      "figure_file": "Fig3b_G2B_diag_robustness_final_palm_v2.png",
+      "figure_relpath": "analysis_viz/figures/v2_subplots/G2_outcome/G2B_diag_robustness_final_palm_v2.png",
+      "source_paths": [
+        "analysis_viz/figures/v2_subplots/G2_outcome/source_data/G2_outcome_metrics_v6_source.xlsx"
+      ],
+      "source_count": 1,
+      "sources_detail": [
+        {
+          "source_file": "analysis_viz/figures/v2_subplots/G2_outcome/source_data/G2_outcome_metrics_v6_source.xlsx",
+          "source_sheet": "明细_G2_palm_final",
+          "rows_total": 1429,
+          "rows_written": 1429
+        },
+        {
+          "source_file": "analysis_viz/figures/v2_subplots/G2_outcome/source_data/G2_outcome_metrics_v6_source.xlsx",
+          "source_sheet": "汇总_G2_palm_final",
+          "rows_total": 9,
+          "rows_written": 9
+        }
+      ],
+      "rows_written": 1438,
+      "truncated": false,
+      "plot_data_files": [
+        "work/paper_crosscheck/2026-05-14_v2-subplots_submission_fix/submission_bundle/Fig03/plot_data/Fig3a__G2_outcome_metrics_v6_source.xlsx"
+      ],
+      "launcher_script": "work/paper_crosscheck/2026-05-14_v2-subplots_submission_fix/submission_bundle/Fig03/scripts/render_Fig3b.py",
+      "render_png": "work/paper_crosscheck/2026-05-14_v2-subplots_submission_fix/submission_bundle/Fig03/render/Fig3b_G2B_diag_robustness_final_palm_v2.png",
+      "render_svg": "work/paper_crosscheck/2026-05-14_v2-subplots_submission_fix/submission_bundle/Fig03/render/Fig3b_G2B_diag_robustness_final_palm_v2.svg",
+      "render_pdf": "work/paper_crosscheck/2026-05-14_v2-subplots_submission_fix/submission_bundle/Fig03/render/Fig3b_G2B_diag_robustness_final_palm_v2.pdf",
+      "svg_mode": "native_vector",
+      "svg_note": "",
+      "pdf_mode": "native_vector",
+      "pdf_note": "",
+      "png_mode": "rewritten_800dpi",
+      "png_note": ""
+    },
+    {
+      "subplot_key": "Fig3c",
+      "sheet_name": "Fig3c",
+      "section_id": "manuscript_fig03",
+      "figure_file": "Fig3c_G2C_check_efficiency_merged_v3.png",
+      "figure_relpath": "analysis_viz/figures/v2_subplots/G2_outcome/G2C_check_efficiency_merged_v3.png",
+      "source_paths": [
+        "analysis_viz/figures/v2_subplots/G2_outcome/source_data/G2_outcome_metrics_v6_source.xlsx"
+      ],
+      "source_count": 1,
+      "sources_detail": [
+        {
+          "source_file": "analysis_viz/figures/v2_subplots/G2_outcome/source_data/G2_outcome_metrics_v6_source.xlsx",
+          "source_sheet": "明细_G2_检查2",
+          "rows_total": 2468,
+          "rows_written": 2468
+        },
+        {
+          "source_file": "analysis_viz/figures/v2_subplots/G2_outcome/source_data/G2_outcome_metrics_v6_source.xlsx",
+          "source_sheet": "明细_G2_ineff2",
+          "rows_total": 2468,
+          "rows_written": 2468
+        },
+        {
+          "source_file": "analysis_viz/figures/v2_subplots/G2_outcome/source_data/G2_outcome_metrics_v6_source.xlsx",
+          "source_sheet": "计算_G2_检查_病例",
+          "rows_total": 2468,
+          "rows_written": 2468
+        },
+        {
+          "source_file": "analysis_viz/figures/v2_subplots/G2_outcome/source_data/G2_outcome_metrics_v6_source.xlsx",
+          "source_sheet": "计算_G2_检查_统计",
+          "rows_total": 2,
+          "rows_written": 2
+        },
+        {
+          "source_file": "analysis_viz/figures/v2_subplots/G2_outcome/source_data/G2_outcome_metrics_v6_source.xlsx",
+          "source_sheet": "汇总_G2_检查_模型",
+          "rows_total": 10,
+          "rows_written": 10
+        },
+        {
+          "source_file": "analysis_viz/figures/v2_subplots/G2_outcome/source_data/G2_outcome_metrics_v6_source.xlsx",
+          "source_sheet": "汇总_G2_ineff_模型",
+          "rows_total": 10,
+          "rows_written": 10
+        }
+      ],
+      "rows_written": 7426,
+      "truncated": false,
+      "plot_data_files": [
+        "work/paper_crosscheck/2026-05-14_v2-subplots_submission_fix/submission_bundle/Fig03/plot_data/Fig3a__G2_outcome_metrics_v6_source.xlsx"
+      ],
+      "launcher_script": "work/paper_crosscheck/2026-05-14_v2-subplots_submission_fix/submission_bundle/Fig03/scripts/render_Fig3c.py",
+      "render_png": "work/paper_crosscheck/2026-05-14_v2-subplots_submission_fix/submission_bundle/Fig03/render/Fig3c_G2C_check_efficiency_merged_v3.png",
+      "render_svg": "work/paper_crosscheck/2026-05-14_v2-subplots_submission_fix/submission_bundle/Fig03/render/Fig3c_G2C_check_efficiency_merged_v3.svg",
+      "render_pdf": "work/paper_crosscheck/2026-05-14_v2-subplots_submission_fix/submission_bundle/Fig03/render/Fig3c_G2C_check_efficiency_merged_v3.pdf",
+      "svg_mode": "native_vector",
+      "svg_note": "",
+      "pdf_mode": "native_vector",
+      "pdf_note": "",
+      "png_mode": "rewritten_800dpi",
+      "png_note": ""
+    },
+    {
+      "subplot_key": "Fig3d",
+      "sheet_name": "Fig3d",
+      "section_id": "manuscript_fig03",
+      "figure_file": "Fig3d_G2D_plan_alignment_semantic_v1.png",
+      "figure_relpath": "analysis_viz/figures/v2_subplots/G2_outcome/G2D_plan_alignment_semantic_v1.png",
+      "source_paths": [
+        "analysis_viz/figures/v2_subplots/G2_outcome/source_data/G2_outcome_metrics_v6_source.xlsx"
+      ],
+      "source_count": 1,
+      "sources_detail": [
+        {
+          "source_file": "analysis_viz/figures/v2_subplots/G2_outcome/source_data/G2_outcome_metrics_v6_source.xlsx",
+          "source_sheet": "明细_G2_方案",
+          "rows_total": 4221,
+          "rows_written": 4221
+        },
+        {
+          "source_file": "analysis_viz/figures/v2_subplots/G2_outcome/source_data/G2_outcome_metrics_v6_source.xlsx",
+          "source_sheet": "汇总_G2_方案_模型",
+          "rows_total": 15,
+          "rows_written": 15
+        }
+      ],
+      "rows_written": 4236,
+      "truncated": false,
+      "plot_data_files": [
+        "work/paper_crosscheck/2026-05-14_v2-subplots_submission_fix/submission_bundle/Fig03/plot_data/Fig3a__G2_outcome_metrics_v6_source.xlsx"
+      ],
+      "launcher_script": "work/paper_crosscheck/2026-05-14_v2-subplots_submission_fix/submission_bundle/Fig03/scripts/render_Fig3d.py",
+      "render_png": "work/paper_crosscheck/2026-05-14_v2-subplots_submission_fix/submission_bundle/Fig03/render/Fig3d_G2D_plan_alignment_semantic_v1.png",
+      "render_svg": "work/paper_crosscheck/2026-05-14_v2-subplots_submission_fix/submission_bundle/Fig03/render/Fig3d_G2D_plan_alignment_semantic_v1.svg",
+      "render_pdf": "work/paper_crosscheck/2026-05-14_v2-subplots_submission_fix/submission_bundle/Fig03/render/Fig3d_G2D_plan_alignment_semantic_v1.pdf",
+      "svg_mode": "native_vector",
+      "svg_note": "",
+      "pdf_mode": "native_vector",
+      "pdf_note": "",
+      "png_mode": "rewritten_800dpi",
+      "png_note": ""
+    }
+  ]
+}
