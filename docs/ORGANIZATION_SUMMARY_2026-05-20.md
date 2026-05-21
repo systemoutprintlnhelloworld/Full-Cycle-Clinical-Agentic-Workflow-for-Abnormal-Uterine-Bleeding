@@ -21,8 +21,8 @@ Create a clean paper-submission code repository under `D:/研究生/项目/课�
 
 ## Audit trail
 
-- `MANIFEST.csv` in this repository lists copied files and hashes.
+- Git history records the copied reviewer-package files and later repository updates.
+- `paper_assets/submission_bundle_no_render/*manifest*` records figure/source-data bundle mappings.
 - `paper_assets/audit_reports/2026-05-20_submission_code_repo_organize/protected_render_manifest_before.csv` records protected render hashes before copying.
 - `paper_assets/audit_reports/2026-05-20_submission_code_repo_organize/protected_render_manifest_after.csv` records protected render hashes after copying.
 - `paper_assets/audit_reports/2026-05-20_submission_code_repo_organize/render_protection_compare.csv` records the before/after comparison.
-

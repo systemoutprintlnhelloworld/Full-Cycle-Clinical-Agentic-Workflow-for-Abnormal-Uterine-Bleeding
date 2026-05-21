@@ -20,7 +20,7 @@ This repository is intended to make the paper-facing computational workflow trac
 
 ## Recommended review order
 
-1. Read `MANIFEST.csv` to confirm the copied file set.
+1. Read the git history and `paper_assets/submission_bundle_no_render/*manifest*` files to confirm the copied file set and figure/source-data mapping.
 2. Read `CODE_AND_SOFTWARE_SUBMISSION_CHECKLIST.md`, `docs/installation.md`, and `docs/demo.md`.
 3. Run `bash run_demo.sh` or `.\run_demo.ps1` to confirm the offline synthetic demo.
 4. Inspect `code/source_data/` and `code/figure_build/wrappers/` for source-data and figure bundle generation logic.

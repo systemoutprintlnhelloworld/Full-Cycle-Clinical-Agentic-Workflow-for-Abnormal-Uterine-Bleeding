@@ -37,7 +37,7 @@ bundle assembly, and manuscript/source-data audit.
 | Demo instructions | `docs/demo.md`, `run_demo.sh`, `run_demo.ps1` | Included |
 | Example data | `demo_data/` | Synthetic toy data included |
 | Runtime notes | `docs/demo.md`, `docs/installation.md` | Included |
-| Repository manifest | `MANIFEST.csv` | Included for copied source snapshot |
+| Repository provenance | Git history; `paper_assets/submission_bundle_no_render/*manifest*` | Included |
 | License | `LICENSE` | Restricted review license pending final approval |
 | Data dictionary | `docs/data_dictionary.md`, `spec/data-dictionary.md` | Included |
 | Prompt inventory | `docs/prompt_inventory.md`, `prompts/` | Included |

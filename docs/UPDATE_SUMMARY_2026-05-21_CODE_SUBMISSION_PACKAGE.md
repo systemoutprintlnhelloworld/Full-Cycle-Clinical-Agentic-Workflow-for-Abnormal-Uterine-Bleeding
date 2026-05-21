@@ -42,6 +42,9 @@ and an explicit license boundary.
 - Demo completed successfully and wrote `outputs/demo_summary.json`.
 - Verified tracked files still contain no `FigXX/render/` paths.
 - Verified `.env.example` is not ignored.
+- Rebased on remote `origin/main`, which had removed the old root
+  `MANIFEST.csv`; documentation now refers to git history and bundle
+  manifests instead of the removed root manifest.
 
 ## Submission interpretation
 

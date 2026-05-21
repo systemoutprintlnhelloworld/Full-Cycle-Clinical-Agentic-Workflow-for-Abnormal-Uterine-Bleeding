@@ -57,13 +57,13 @@ The demo uses only synthetic data in `demo_data/`, makes no API calls, and write
 - Model versions and inference settings: `docs/model_versions.md`
 - Reproducibility notes: `REPRODUCIBILITY.md`
 
-## Manifest
+## Provenance
 
-`MANIFEST.csv` records every copied file with source path, destination path, size, and SHA256 hash.
+Repository-level provenance is tracked by git history and by the paper-bundle manifests under `paper_assets/submission_bundle_no_render/`.
 
-Use it as the first audit trail when checking whether the repository contains the expected code and assets.
+Use `source_data_manifest.csv`, `bundle_manifest.json`, and per-figure `manifest.json` files as the first audit trail for figure/source-data assets.
 
-New repository-level reviewer package files added after the original copy step are tracked by git history rather than by `MANIFEST.csv`.
+Repository-level reviewer package files added after the original copy step are tracked by git history.
 
 ## Protected render rule
 

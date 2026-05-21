@@ -33,4 +33,4 @@ calls are made.
 - It does not regenerate protected render files.
 
 For paper-level provenance, inspect `paper_assets/submission_bundle_no_render/`
-and `MANIFEST.csv`.
+and its `*manifest*` files.
