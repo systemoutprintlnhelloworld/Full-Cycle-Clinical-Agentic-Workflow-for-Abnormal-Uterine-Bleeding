@@ -2,11 +2,11 @@ import os
 
 # API Configuration
 # Using "yunwu" for GPT-4o as primary
-YUNWU_API_KEY = "sk-VhkXAjouzkRQJXrUpYyuV7Gb9uhMiADv8uGsiyF1BNQLdxdf"
+YUNWU_API_KEY = os.getenv("YUNWU_API_KEY", "")
 YUNWU_BASE_URL = "https://yunwu.ai/v1"
 
 # Using "gala" for Gemini as secondary (if needed, e.g. for patient voice generation)
-GALA_API_KEY = "sk-Tf8DOPvvHy34h3owxFZdSlZAj068a7IJWOOmUhTd3nbp75ZB"
+GALA_API_KEY = os.getenv("GALA_API_KEY", "")
 GALA_BASE_URL = "https://www.galaapi.com/v1"
 
 # Model Selection

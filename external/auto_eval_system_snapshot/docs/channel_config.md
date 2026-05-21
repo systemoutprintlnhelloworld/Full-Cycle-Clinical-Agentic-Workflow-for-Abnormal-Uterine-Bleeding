@@ -283,19 +283,19 @@ class DoctorAgent:
 
 ```bash
 # Yunwu API
-YUNWU_API_KEY=sk-yunwu-xxxxxxxxxxxxx
+YUNWU_API_KEY=<redacted_api_key>
 
 # Gala API (Gemini)
-GALA_API_KEY=sk-gala-xxxxxxxxxxxxx
+GALA_API_KEY=<redacted_api_key>
 
 # Claude API
-CLD_API_KEY=sk-ant-xxxxxxxxxxxxx
+CLD_API_KEY=<redacted_api_key>
 
 # DeepSeek API
-DS_API_KEY=sk-deepseek-xxxxxxxxxxxxx
+DS_API_KEY=<redacted_api_key>
 
 # 综合API
-COMP_API_KEY=sk-comp-xxxxxxxxxxxxx
+COMP_API_KEY=<redacted_api_key>
 ```
 
 ---

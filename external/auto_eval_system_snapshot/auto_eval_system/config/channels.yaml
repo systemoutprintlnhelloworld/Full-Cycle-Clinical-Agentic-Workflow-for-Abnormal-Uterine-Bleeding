@@ -31,12 +31,12 @@ channels:
     max_retries: 2
   yunwu_grok_special:
     base_url: "https://yunwu.ai/v1"
-    api_key: "sk-0nPrBUjQ1Eyjs8E0JeCSoxjaSODBqlgCOW73L4nsr58whjvl"
+    api_key: "${YUNWU_GROK_SPECIAL_API_KEY}"
     timeout: 300
     max_retries: 3
   yunwu_deepseek_special:
     base_url: "https://yunwu.ai/v1"
-    api_key: "sk-5Y6So0NE2bhXleZkMZFFIKwwqBP8RzppJcs6DsZzDALFCVAU"
+    api_key: "${YUNWU_DEEPSEEK_SPECIAL_API_KEY}"
     timeout: 300
     max_retries: 3
 
