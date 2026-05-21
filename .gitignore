@@ -9,6 +9,7 @@ __pycache__/
 # Local environments and secrets
 .env
 .env.*
+!.env.example
 *.key
 *.pem
 *.token
@@ -40,4 +41,3 @@ analysis_viz/tmp_kaleido/
 
 # Office lock files
 ~$*
-

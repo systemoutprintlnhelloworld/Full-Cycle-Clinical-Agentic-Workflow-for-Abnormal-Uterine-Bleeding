@@ -1,0 +1,27 @@
+name: aub-agentic-workflow-review
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - pip
+  - pandas
+  - numpy
+  - openpyxl
+  - python-docx
+  - matplotlib
+  - seaborn
+  - plotly
+  - pillow
+  - scipy
+  - scikit-learn
+  - pyyaml
+  - requests
+  - beautifulsoup4
+  - rich
+  - fastapi
+  - uvicorn
+  - pip:
+      - kaleido
+      - python-dotenv
+      - openai>=1.0
+      - pywin32; platform_system == "Windows"

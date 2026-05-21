@@ -1,0 +1,23 @@
+Restricted Research Review License
+
+Copyright (c) 2026 The authors.
+
+This repository is provided as a confidential reviewer code package for
+peer-review evaluation of the associated manuscript only.
+
+Until the authors and their institution approve a public software license,
+all rights are reserved. You may inspect and execute the code solely for
+confidential review, reproducibility assessment, and editorial evaluation
+of the associated manuscript.
+
+You may not redistribute, sublicense, publish, deploy clinically, use
+commercially, or reuse this software or its derived outputs outside the
+confidential review process without prior written permission from the
+authors and institution.
+
+No patient-level raw clinical records, API keys, provider credentials, or
+hospital-internal deployment credentials are included in this repository.
+
+Before public release, replace this file with the final license approved by
+the authors and institution, for example MIT, Apache-2.0, or an
+institution-specific restricted license.

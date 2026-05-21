@@ -1,0 +1,39 @@
+{
+  "case_id": "toy_case_002",
+  "center": "SyntheticCenterB",
+  "patient_summary": "Synthetic abnormal uterine bleeding case with perimenopausal bleeding and endometrial thickening.",
+  "stages": [
+    {
+      "stage_id": "D1",
+      "visible_information": "Initial outpatient complaint: irregular heavy bleeding.",
+      "doctor_action": "Request pregnancy test, transvaginal ultrasound, CBC, and endometrial sampling consideration.",
+      "environment_feedback": "Ultrasound reports endometrial thickening; pregnancy test is negative.",
+      "judge_score": 0.8,
+      "notes": "Synthetic example for reviewer demo."
+    },
+    {
+      "stage_id": "D2",
+      "visible_information": "Admission history and ultrasound remain concerning for endometrial lesion.",
+      "doctor_action": "Prioritize hysteroscopy and pathological confirmation.",
+      "environment_feedback": "Procedure is completed and specimen is sent.",
+      "judge_score": 0.9,
+      "notes": "Synthetic diagnostic refinement."
+    },
+    {
+      "stage_id": "D3",
+      "visible_information": "Pathology indicates benign endometrial polyp.",
+      "doctor_action": "Confirm final diagnosis and avoid overtreatment.",
+      "environment_feedback": "Postoperative course is stable.",
+      "judge_score": 0.9,
+      "notes": "Synthetic pathology."
+    },
+    {
+      "stage_id": "D4",
+      "visible_information": "Follow-up bleeding improves.",
+      "doctor_action": "Recommend routine follow-up and return precautions.",
+      "environment_feedback": "Plan is acceptable.",
+      "judge_score": 0.8,
+      "notes": "Synthetic follow-up."
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "case_id": "toy_case_001",
+  "center": "SyntheticCenterA",
+  "patient_summary": "Synthetic abnormal uterine bleeding case with anemia symptoms and ultrasound evidence of uterine fibroid.",
+  "stages": [
+    {
+      "stage_id": "D1",
+      "visible_information": "Initial outpatient complaint: prolonged menstrual bleeding and fatigue.",
+      "doctor_action": "Request CBC, pregnancy test, pelvic ultrasound, and coagulation profile.",
+      "environment_feedback": "CBC indicates anemia; pregnancy test is negative; ultrasound suggests uterine fibroid.",
+      "judge_score": 0.9,
+      "notes": "Synthetic example for workflow structure only."
+    },
+    {
+      "stage_id": "D2",
+      "visible_information": "Admission workup confirms fibroid and persistent bleeding.",
+      "doctor_action": "Revise diagnosis to fibroid-related abnormal uterine bleeding and recommend surgical evaluation.",
+      "environment_feedback": "Preoperative assessment supports surgery.",
+      "judge_score": 0.9,
+      "notes": "No real patient information."
+    },
+    {
+      "stage_id": "D3",
+      "visible_information": "Surgical finding and pathology are available.",
+      "doctor_action": "Confirm final diagnosis and postoperative management plan.",
+      "environment_feedback": "Pathology is benign leiomyoma.",
+      "judge_score": 1.0,
+      "notes": "Synthetic final diagnosis."
+    },
+    {
+      "stage_id": "D4",
+      "visible_information": "Postoperative recovery information is available.",
+      "doctor_action": "Recommend follow-up and anemia monitoring.",
+      "environment_feedback": "Follow-up plan is clinically plausible.",
+      "judge_score": 0.9,
+      "notes": "Synthetic follow-up."
+    }
+  ]
+}
